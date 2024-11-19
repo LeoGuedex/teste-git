@@ -3,7 +3,7 @@ package leoguedex.com.github;
 public class Main {
 
   public static void main(String[] args) {
-    String nome = "Leonardo";
-    int contador = 0;
+    String nome = "Leonardo 2";
+    int contador = 100;
   }
 }
