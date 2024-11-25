@@ -6,4 +6,8 @@ public class Main {
     String nome = "Leonardo 2";
     int contador = 100;
   }
+
+  private static void nome(){
+    System.out.println("Leonardo");
+  }
 }
